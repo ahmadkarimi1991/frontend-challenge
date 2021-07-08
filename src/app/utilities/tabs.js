@@ -1,3 +1,3 @@
 export const tabs = () => {
-    console.log('Hello')
-}
+  console.log("Tabs is running...");
+};
